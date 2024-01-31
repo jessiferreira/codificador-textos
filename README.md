@@ -57,7 +57,10 @@ https://jessyferrs.github.io/codificador-decodificador-alura/
 ## :white_check_mark: Status:
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](https://link-para-o-status-do-projeto)
 
-
-
+&nbsp;
+## ✨ Badge pela conclusão do desafio:
+<p align="center">
+    <img src="https://github.com/jessyferrs/codificador-decodificador-alura/assets/121064773/b1a5b728-222e-4740-9fcd-557a77bec45a" alt="image" width="350">
+</p>
 
 
