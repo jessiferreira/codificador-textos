@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Decodificador e codificador</title>
+    <title>Decodificador e Codificador</title>
     <link rel="stylesheet" href="estilo/style.css">
     <link rel="stylesheet" href="estilo/mobile.css">
     <link rel="shortcut icon" href="imagens/logo-pata.png" type="image/x-icon">
 </head>
+
 <body>
 <main class="main container">
     <header class="cabecalho">
         <img src="imagens/logo-pata.png" alt="logo-pata">
     </header>
+
     <div class="container-input">
         <div class="input">
             <textarea id="input-texto" placeholder="Digite seu texto aqui..."></textarea>
             <p class="alerta"><strong>ATENÇÃO: </strong>Apenas letras maiúsculas e sem acento!</p>
         </div>
-
 
         <div id="output">
             <img src="imagens/gato.png" alt="logo-gato" height="330px" width="400px" class="centralizado">
@@ -28,14 +30,12 @@
         </div>
     </div>
 
-
     <div class="buttons">
         <div class="container-btn">
             <button onclick="criptografar()" class="btn-criptografar">Criptografar</button>
             <button onclick="descriptografar()" class="btn-descriptografar">Descriptografar</button>
             <button onclick="limparTexto()" class="btn-limpar">Limpar</button>
         </div>
-
     </div>
 </main>
 
@@ -54,4 +54,5 @@
 <script src="interacao/script.js"></script>
 <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
+
 </html>

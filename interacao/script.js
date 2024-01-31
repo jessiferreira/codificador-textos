@@ -17,7 +17,7 @@ function criptografar() {
         .replace(/o/g, "ober").replace(/u/g, "ufat");
 
     document.getElementById('output').innerHTML = '<textarea readonly id="input-texto">' + resultCriptografar +
-        '</textarea>' + '</br><button class="btn-copiar" id="copiar" onclick="copiar()">Copiar</button>';
+        '</textarea>' + '</br><button class="btn-copiar" id="copiar" onclick="copiar()">Copiar</button>'
 
     document.querySelector('.btn-descriptografar').disabled = false;
     document.querySelector('.btn-limpar').disabled = false;
@@ -30,7 +30,7 @@ function descriptografar() {
         .replace(/ober/g, "o").replace(/ufat/g, "u");
 
     document.getElementById('output').innerHTML = '<textarea readonly id="input-texto">' + resultDescriptografar +
-        '</textarea>' + '</br><button class="btn-copiar" id="copiar" onclick="copiar()">Copiar</button>';
+        '</textarea>' + '</br><button class="btn-copiar" id="copiar" onclick="copiar()">Copiar</button>'
 
     document.querySelector('.btn-descriptografar').disabled = false;
     document.querySelector('.btn-limpar').disabled = false;

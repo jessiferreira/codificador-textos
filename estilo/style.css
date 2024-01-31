@@ -115,12 +115,10 @@ strong {
     text-decoration: none;
     background-color: var(--corPrincipal);
     color: var(--corTitulo);
-    font-weight: bold;
     width: 150px;
     height: 50px;
     margin-left: 4%;
     cursor: pointer;
-
 }
 
 .container-btn button:hover {
@@ -176,3 +174,14 @@ strong {
 .icons ion-icon:hover {
     color: var(--corSecundaria);
 }
+
+
+
+
+
+
+
+
+
+
+
