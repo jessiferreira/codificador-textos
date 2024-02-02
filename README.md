@@ -46,7 +46,7 @@ Este desafio consiste em desenvolver um codificador/decodificador de textos util
 
 ## Badge pela conclusão do desafio
 <p align="center">
-    <img src="https://github.com/jessyferrs/codificador-decodificador-alura/assets/121064773/b1a5b728-222e-4740-9fcd-557a77bec45a" alt="image" width="350">
+    <img src="https://github.com/jessyferrs/codificador-decodificador-alura/assets/121064773/b1a5b728-222e-4740-9fcd-557a77bec45a" alt="image" width="300">
 </p>
 
 
