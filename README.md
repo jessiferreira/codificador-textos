@@ -1,64 +1,50 @@
-# Challenge Alura - Codificador e Decodificador de Textos
-
-&nbsp;
-
-## :rocket: Tecnologias
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-&nbsp;
-
-##  :page_with_curl: Sobre o projeto
-
-Boas-vindas ao meu projeto de criptografia e descriptografia de textos. O projeto tem como objetivo criptografar e descriptografar mensagens, mas para que isso aconteça, é preciso estar a par de algumas regras.
-
-&nbsp;
-
-## :warning: Regras:
-A criptografia funciona da seguinte maneira:
-- Letra "e" é convertida para "enter"
-- Letra "i" é convertida para "imes"
-- Letra "a" é convertida para "ai"
-- Letra "o" é convertida para "ober"
-- Letra "u" é convertida para "ufat"
-
-&nbsp;
-
-## :pushpin: Funcionalidade:
-- Funciona apenas com letras minúsculas
-- Não funciona com acentos ou caracteres especiais
-- Converte uma palavra para a versão criptografada e também retornar a palavra criptografada para a versão original
-- Possui botão de copiar e botão de limpar texto
-
-&nbsp;
-
-## :pencil: Exemplo de uso:
-```
-gato → gaitober
-gaitober → gato
-```
-
-&nbsp;
-
-## :framed_picture: Resultado final:
 <p align="center">
-    <img src="https://github.com/jessyferrs/codificador-decodificador-alura/assets/121064773/7c5581b6-20de-497c-a400-32ebbf64e80b" alt="image" width="900">
+  <img src="https://github.com/jessyferrs/codificador-decodificador-alura/assets/121064773/84f4084e-b6ae-4fec-b25f-f68d68d2b6a0" alt="imagem-alura">
 </p>
 
-&nbsp;
+# Codificador e Decodificador de Textos
 
-## :link: GitHub Pages
-https://jessyferrs.github.io/codificador-decodificador-alura/
+Este desafio consiste em desenvolver um codificador/decodificador de textos utilizando as linguagens de programação JavaScript, CSS e a linguagem de marcação HTML. No final, o usuário poderá criptografar ou descriptografar suas mensagens.
 
-&nbsp;
+## Sobre o desafio
 
-## :white_check_mark: Status:
-[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](https://link-para-o-status-do-projeto)
+### Descrição
 
-&nbsp;
-## ✨ Badge pela conclusão do desafio:
+> Durante estas duas semanas, vamos trabalhar em uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
+>
+> - As "chaves" de criptografia que utilizaremos são:
+> - A letra "e" é convertida para "enter"
+> - A letra "i" é convertida para "imes"
+> - A letra "a" é convertida para "ai"
+> - A letra "o" é convertida para "ober"
+> - A letra "u" é convertida para "ufat"
+>
+### Requisitos:
+> - Deve funcionar apenas com letras minúsculas.
+> - Não devem ser utilizados letras com acentos nem caracteres especiais.
+> - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
+> - A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções.
+> - O resultado deve ser exibido na tela.
+
+### Por exemplo:
+> ```
+> "gato" => "gaitober"
+> gaitober" => "gato"
+> ```
+
+## Prévia do Codificador e Decodificador de Textos
+
+<p align="center">
+    <img src="https://github.com/jessyferrs/codificador-decodificador-alura/assets/121064773/fe6c2e87-dcb7-4814-ab68-9f647dcc2d61" alt="image" width="900">
+</p>
+
+## Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
+
+## GitHub Pages
+[Acesse aqui](https://jessyferrs.github.io/codificador-decodificador-alura/)
+
+## Badge pela conclusão do desafio
 <p align="center">
     <img src="https://github.com/jessyferrs/codificador-decodificador-alura/assets/121064773/b1a5b728-222e-4740-9fcd-557a77bec45a" alt="image" width="350">
 </p>
