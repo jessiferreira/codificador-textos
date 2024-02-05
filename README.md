@@ -32,7 +32,7 @@ Este desafio consiste em desenvolver um codificador/decodificador de textos util
 > gaitober" => "gato"
 > ```
 
-## Prévia do Codificador e Decodificador de Textos
+## Prévia do Codificador/Decodificador
 
 <p align="center">
     <img src="https://github.com/jessyferrs/codificador-decodificador-alura/assets/121064773/fe6c2e87-dcb7-4814-ab68-9f647dcc2d61" alt="image" width="900">
