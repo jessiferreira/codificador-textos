@@ -6,7 +6,7 @@
 
 # ☂️ Codificador e Decodificador de Textos
 
-Este desafio consiste em desenvolver um codificador/decodificador de textos utilizando as linguagens de programação JavaScript, CSS e a linguagem de marcação HTML. No final, o usuário poderá criptografar ou descriptografar suas mensagens.
+Este projeto consiste em desenvolver um codificador/decodificador de textos utilizando as linguagens de programação JavaScript, CSS e a linguagem de marcação HTML. No final, o usuário poderá criptografar ou descriptografar suas mensagens.
 
 ## Sobre o desafio
 
