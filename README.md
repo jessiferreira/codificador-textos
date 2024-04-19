@@ -2,7 +2,7 @@
   <img src="https://github.com/jessiferreira/conversor-de-moedas/assets/121064773/c1b8fd0e-bcdc-4bb0-a059-de8ff7af9f30" alt="imagem-alura" width="1200px">
 </p>
 
-[![Generic badge](https://img.shields.io/badge/TECNOLOGIA-JavaScript-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/TECNOLOGIA-HTML-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/TECNOLOGIA-CSS-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/IDE-VSCode-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/STATUS-Concluído-FF79C6.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/LINGUAGEM-JavaScript-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/LINGUAGEM-HTML-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/LINGUAGEM-CSS-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/IDE-VSCode-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/STATUS-Concluído-FF79C6.svg)](https://shields.io/)
 
 # ⭐ Codificador e Decodificador de Textos
 
