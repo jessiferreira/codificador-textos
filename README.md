@@ -13,7 +13,7 @@ Este projeto consiste em desenvolver um codificador/decodificador de textos util
 - [Descrição](#-descrição)
 - [Pré-requisitos](#-pré-requisitos)
 - [Funcionalidades](#-funcionalidades)
-- [Prévia](#-prévia)
+- [Prévia](#-previa)
 - [Badge de Conclusão](#-badge-de-conclusão)
 
 
