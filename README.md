@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="https://github.com/jessiferreira/conversor-de-moedas/assets/121064773/c1b8fd0e-bcdc-4bb0-a059-de8ff7af9f30" alt="imagem-alura" width="1200px">
+  <img src="https://github.com/jessiferreira/codificador-textos/assets/121064773/3e13ecd6-7d7f-4b26-b98e-78a23bb55f64 width="1200px">
 </p>
 
-[![Generic badge](https://img.shields.io/badge/LINGUAGEM-JavaScript-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/LINGUAGEM-HTML-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/LINGUAGEM-CSS-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/IDE-VSCode-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/STATUS-Concluído-FF79C6.svg)](https://shields.io/)
-
-# ⭐ Codificador e Decodificador de Textos
+[![Generic badge](https://img.shields.io/badge/Linguagem-JavaScript-C2078F.svg)](https://shields.io/)&nbsp;
+[![Generic badge](https://img.shields.io/badge/Linguagem-CSS-C2078F.svg)](https://shields.io/)&nbsp;
+[![Generic badge](https://img.shields.io/badge/Tecnologia-HTML-C2078F.svg)](https://shields.io/)&nbsp;
+[![Generic badge](https://img.shields.io/badge/IDE-VSCode-C2078F.svg)](https://shields.io/)&nbsp;
+[![Generic badge](https://img.shields.io/badge/Status-Concluído-C2078F.svg)](https://shields.io/)
 
 ## 📖 Descrição
-Este projeto consiste em desenvolver um codificador/decodificador de textos utilizando as linguagens de programação JavaScript, CSS e a linguagem de marcação HTML. No final, o usuário poderá criptografar ou descriptografar suas mensagens.
+__Este projeto consiste em desenvolver um codificador/decodificador de textos utilizando as linguagens de programação JavaScript, CSS e a linguagem de marcação HTML. No final, o usuário poderá criptografar ou descriptografar suas mensagens.__
 
 ## 📑 Índice
 - [Descrição](#-descrição)
 - [Pré-requisitos](#-pré-requisitos)
 - [Funcionalidades](#-funcionalidades)
-- [Prévia](#-previa)
 - [Badge de Conclusão](#-badge-de-conclusão)
 
 
